@@ -4,8 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Features:
 
-1.Single Page Application \
-2.Add grocery item into the list.
+1.Add grocery item into the list.
 
 ![working project](images/groceryimage.png)
 ## Running unit tests
